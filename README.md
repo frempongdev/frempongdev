@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://codepen.io/knobaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="knobaddy" height="30" width="40" /></a>
 <a href="https://twitter.com/knobaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knobaddy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel knower amankwaa-frempong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel knower amankwaa-frempong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/frempongdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel knower amankwaa-frempong" height="30" width="40" /></a>
 <a href="https://instagram.com/knower.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knower.dev" height="30" width="40" /></a>
 </p>
 
