@@ -9,7 +9,7 @@
 
 - 👷  I'm currently open to new job opportunities.
 
-- 🌱 I’m currently learning **Ruby on Rails.**
+- 🌱 I’m currently learning **Node JS.**
 
 - 👯 I’m looking to collaborate on **various projects**
 
