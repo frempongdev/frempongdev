@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript Testing**
+- 🔭 I’m currently working on **Ruby on Rails API only applications**
 
 - 👷  I'm currently open to new job opportunities.
 
