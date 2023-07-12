@@ -40,5 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frempongdev&show_icons=true&locale=en" alt="frempongdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frempongdev&" alt="frempongdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frempongdev&exclude_days=Sun%2CSat" alt="frempongdev" /></p>
 
