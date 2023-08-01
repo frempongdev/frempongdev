@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://frempongdev.github.io/Personal-Portfolio/](https://frempongdev.github.io/Personal-Portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Ruby.**
+- 💬 Ask me about **Ruby on Rails, React/Redux, JavaScript, HTML5, CSS3.**
 
 - 📫 How to reach me **samankwaa.frempong@gmail.com**
 
