@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
 
-- 👨‍💻 All of my projects are available at [https://frempongdev.github.io/Personal-Portfolio/](https://frempongdev.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available in [My portfolio](https://frempong.netlify.app/)
 
 - 💬 Ask me about **Ruby on Rails, React/Redux, JavaScript, HTML5, CSS3.**
 
