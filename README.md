@@ -9,9 +9,9 @@
 
 - 👷  I'm currently open to new job opportunities.
 
-- 🌱 I’m currently learning **Node JS.**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **various projects**
+- 👯 I’m looking to collaborate on **Web and Mobile projects**
 
 - 👨‍💻 All of my projects are available at [https://frempongdev.github.io/Personal-Portfolio/](https://frempongdev.github.io/Personal-Portfolio/)
 
