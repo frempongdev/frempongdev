@@ -9,13 +9,13 @@
 
 - 👷  I'm currently open to new job opportunities.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👯 I’m looking to collaborate on **Web and Mobile projects**
 
 - 👨‍💻 All of my projects are available in [My portfolio](https://frempong.netlify.app/)
 
-- 💬 Ask me about **Ruby on Rails, React/Redux, JavaScript, HTML5, CSS3.**
+- 💬 Ask me about **Ruby on Rails, Kotlin, React/Redux, JavaScript, HTML5, CSS3.**
 
 - 📫 How to reach me **samankwaa.frempong@gmail.com**
 
